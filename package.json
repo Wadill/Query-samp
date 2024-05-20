@@ -1,0 +1,24 @@
+{
+  "name": "Query-samp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "advanced approach to query using TypeScript.",
+  "dependencies": {
+    "apollo-client": "^2.6.10",
+    "ethers": "^6.12.1",
+    "graphql": "^15.8.0",
+    "graphql-tag": "^2.12.6",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
